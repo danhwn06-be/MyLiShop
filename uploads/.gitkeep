@@ -1,0 +1,3 @@
+# Bỏ qua tất cả mọi thứ trong thư mục uploads (loại trừ file .gitkeep ra)
+uploads/*
+!uploads/.gitkeep

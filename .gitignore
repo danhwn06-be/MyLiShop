@@ -1,0 +1,14 @@
+# Ẩn file cấu hình database
+includes/db.php
+config.php
+
+# Ẩn thư mục rác của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Ẩn file người dùng tải lên
+uploads/*
+!uploads/.gitkeep
+
+# Ẩn thư mục editor (nếu dùng VS Code)
+.vscode/
