@@ -12,3 +12,6 @@ uploads/*
 
 # Ẩn thư mục editor (nếu dùng VS Code)
 .vscode/
+
+# Phần thư mục không liên quan
+database/codespace.sql
