@@ -2,6 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,12 +21,15 @@
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js" defer></script>
     <script src="assets/js/main.js" defer></script>
 </head>
+
 <body>
     <?php include "includes/header.php" ?>
     <?php include "includes/banner.php" ?>
 
+    <?php include "includes/home-products" ?>
 
     <?php include "includes/footer.php" ?>
 </body>
 </body>
+
 </html>
