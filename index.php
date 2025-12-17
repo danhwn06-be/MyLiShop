@@ -19,6 +19,11 @@
     <script src="assets/js/main.js" defer></script>
 </head>
 <body>
+    <?php include "assets/header.php" ?>
+
     
+
+    <?php include "assets/footer.php" ?>
+</body>
 </body>
 </html>
