@@ -1,3 +1,5 @@
+<?php require_once("includes/db.php"); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +23,7 @@
 <body>
     <?php include "assets/header.php" ?>
 
-    
+
 
     <?php include "assets/footer.php" ?>
 </body>
